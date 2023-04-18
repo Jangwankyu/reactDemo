@@ -9,9 +9,6 @@ function App() {
         <Fragment />
         <Fragment />
       </div>
-
-      {/*sdddddd */}
-
     </>
   );
 }
