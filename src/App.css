@@ -37,7 +37,8 @@
   }
 }
 
-.fragment {
-  border: 2px solid red;
+.box{
+  border: 1px solid #61dafb;
+  margin-bottom: 5px;
   text-align: center;
 }
